@@ -1,26 +1,137 @@
-# 💫 About Me:
-👋 Hi there! I’m an Infrastructure Team Lead at an IT support firm in London. I’m passionate about technology and enjoy building solutions that make life easier.<br><br>🚀 Currently, I'm working on pokeCRM, a project inspired by my childhood love for Pokémon cards. As I rediscovered my old collection, I wanted to create a fun and interactive way to manage and maintain my inventory.<br><br>👟 Fun fact: I have a massive trainer collection that I've built over the years. I refuse to part with any of them and continue to grow this collection as a hobby!<br><br>💻 When I’m not coding, I’m diving into new technical methods like Docker and other tools that challenge me and help me grow my skill set. I believe that curiosity drives innovation, and I’m always eager to learn something new.<br><br>🌟 My greatest joy and motivation in life is my 2.5-year-old daughter, who keeps me inspired and on my toes!<br><br>Feel free to connect with me here or on my other social platforms!
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,45:1f6feb,100:a371f7&text=Bhumit%20Desai&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=IT%20Operations%20Lead%20%40%20MrQ%20%C2%B7%20London&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhumit Desai — IT Operations Lead at MrQ" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/bhumitd09">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Running+IT+Ops+at+MrQ;Automate+it+once%2C+never+click+it+again;Shipping+CollectTCG+on+web+%C2%B7+iOS+%C2%B7+Android;Green+dashboards+%26+boring+on-call+shifts;Zero+trust.+Zero+drama." alt="Typing intro" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhumit-desai-736951165/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/bhumitd9) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhumitd09&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhumitd09&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumitd09&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhumitd09&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhumitd09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhumit-desai-736951165/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.reddit.com/user/bhumitd9"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://collecttcg.co.uk"><img src="https://img.shields.io/badge/CollectTCG-a371f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CollectTCG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bhumitd09&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhumitd09&icon=2&color=9)](https://visitcount.itsvg.in)
 
+```console
+$ systemctl status bhumit
+● bhumit.service - IT Operations Lead @ MrQ
+     Loaded: loaded (/etc/london/bhumit.service; enabled; preset: caffeinated)
+     Active: active (running) since forever
+   Main PID: 1 (ops)
+      Tasks: 3 (limit: 24h)
+     CGroup: /work.slice/bhumit.service
+             ├─ ops     keeping IT fast, secure and boring (the good kind)
+             ├─ build   shipping CollectTCG across web, iOS and Android
+             └─ dad     chief entertainment officer for one small human
+
+Nov 21 09:00:01 london bhumit[1]: fleet patched, monitored, documented ✔
+Nov 21 13:37:00 london bhumit[1]: automated another manual process ✔
+Nov 21 23:59:59 london bhumit[1]: trainer collection grew again. selling: 0 ✔
+```
+
+## 🧭 What I do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ By day — IT Ops @ MrQ
+I lead IT Operations at **MrQ**, keeping the people, devices and platforms behind the product running smoothly.
+
+- 🔐 **Identity & security first** — least privilege, MFA everywhere, zero-trust thinking
+- ☁️ **Cloud & infrastructure** — AWS, Azure, Cloudflare, networks that just work
+- ⚙️ **Automation over tickets** — PowerShell, Python, Terraform, Ansible
+- 📟 **Calm incidents** — monitoring, runbooks and post-mortems that actually change things
+- 🤝 **Leading the team** — fixing root causes, not just closing tickets
+
+</td>
+<td width="50%" valign="top">
+
+### 🌙 By night — builder
+I build products end to end: API, web, two native apps, data pipelines and the cloud underneath.
+
+- 🃏 **CollectTCG** — my trading card platform (below)
+- 🔒 **Privacy tech** — end-to-end encryption and zero-knowledge storage
+- 🤖 **AI tooling** — agents, embeddings and computer vision
+- 🏠 **Homelab** — Kubernetes on Talos, Pi-hole, Plex, Raspberry Pis
+
+</td>
+</tr>
+</table>
+
+## 🃏 Featured: CollectTCG
+
+<p>
+  <a href="https://collecttcg.co.uk"><img src="https://img.shields.io/badge/Web-collecttcg.co.uk-a371f7?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  <a href="https://apps.apple.com/gb/app/collect-tcg/id6762673272"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a>
+  <img src="https://img.shields.io/badge/Google_Play-coming_soon-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play — coming soon" />
+</p>
+
+What started as **pokeCRM**, a way to sort out the childhood Pokémon collection I rediscovered, is now **CollectTCG**: a full platform for scanning, tracking and pricing trading cards.
+
+- 📸 **Card scanner** — point your camera at a card or graded slab and get a match plus a price in one call (vision embeddings, a 200k+ card index, AI fallback)
+- 💷 **Live market prices** — price history, recent eBay sales and grade-by-grade slab values
+- 🔎 **Deal finder** — spots underpriced eBay listings against the market
+- 🎴 **Many games** — Pokémon (EN/JP/CN), One Piece, Magic, Gundam, Riftbound and more
+- 📱 **Everywhere** — Next.js web, native Swift iOS, native Kotlin Android, all on one TypeScript API
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,swift,kotlin,python,mysql,aws,docker,githubactions&perline=11" alt="CollectTCG stack" />
+</p>
+
+## 🧪 In the lab
+
+| Project | What it is | Built with |
+|---|---|---|
+| 🛡️ **Umbra** | End-to-end encrypted messenger: MLS (RFC 9420) with hybrid post-quantum keys, sealed sender, no phone numbers | Kotlin · Next.js · Rust/WASM |
+| 🗝️ **Nullkey** | Zero-knowledge file vault: the server holds a null key | TypeScript |
+| 📷 **Lightsafe** | Zero-knowledge photo vault for iOS and web | Swift · AWS |
+| 🎙️ **Hark** | Meeting transcripts and AI notes with your own keys, plus encrypted cloud sync | TypeScript |
+| 👻 **Spooki** | A notch companion for AI coding agents, starring Boo the ghost | Rust |
+| ☸️ **Homelab** | Talos Kubernetes cluster as code | Terraform · Talos |
+
+## 🧰 Toolbox
+
+<p align="center"><b>Cloud & infrastructure</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,linux,ubuntu,windows,docker,kubernetes,nginx,raspberrypi&perline=11" alt="Cloud and infrastructure" />
+</p>
+<p align="center"><b>Automation & ops</b><br/>
+  <img src="https://skillicons.dev/icons?i=powershell,bash,python,terraform,ansible,githubactions,git,grafana,prometheus&perline=11" alt="Automation and ops" />
+</p>
+<p align="center"><b>Building</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,swift,kotlin,go,rust,php,laravel,mysql,postgres,redis,firebase,figma&perline=15" alt="Building" />
+</p>
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhumitd09&theme=github-dark-blue&hide_border=true&border_radius=10&ring=A371F7&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumitd09&bg_color=0d1117&color=c9d1d9&line=a371f7&point=58a6ff&area=true&area_color=a371f7&title_color=58a6ff&hide_border=true&radius=10&custom_title=Contributions%20in%20the%20last%20month" width="100%" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumitd09/bhumitd09/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumitd09/bhumitd09/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/bhumitd09/bhumitd09/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
+
+## 🎮 Off the clock
+
+- 👟 **Trainers** — a collection years in the making. Nothing leaves. Ever.
+- ⚡ **Pokémon cards** — the hobby that turned into a whole product
+- 👧 **My daughter** — my greatest joy, my biggest motivation, and the reason I'm never off duty
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a371f7,55:1f6feb,100:0d1117" width="100%" alt="" />
+</p>
