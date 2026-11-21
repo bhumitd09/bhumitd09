@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,45:1f6feb,100:a371f7&text=Bhumit%20Desai&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=IT%20Operations%20Lead%20%40%20MrQ%20%C2%B7%20London&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhumit Desai — IT Operations Lead at MrQ" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0b3d91,100:00d4ff&text=Bhumit%20Desai&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=IT%20Operations%20Lead%20%40%20MrQ%20%C2%B7%20St%20Albans&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bhumit Desai — IT Operations Lead at MrQ" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ```console
 $ systemctl status bhumit
 ● bhumit.service - IT Operations Lead @ MrQ
-     Loaded: loaded (/etc/london/bhumit.service; enabled; preset: caffeinated)
+     Loaded: loaded (/etc/st-albans/bhumit.service; enabled; preset: caffeinated)
      Active: active (running) since forever
    Main PID: 1 (ops)
       Tasks: 3 (limit: 24h)
@@ -30,9 +30,9 @@ $ systemctl status bhumit
              ├─ build   shipping CollectTCG across web, iOS and Android
              └─ dad     chief entertainment officer for one small human
 
-Nov 21 09:00:01 london bhumit[1]: fleet patched, monitored, documented ✔
-Nov 21 13:37:00 london bhumit[1]: automated another manual process ✔
-Nov 21 23:59:59 london bhumit[1]: trainer collection grew again. selling: 0 ✔
+Nov 21 09:00:01 st-albans bhumit[1]: fleet patched, monitored, documented ✔
+Nov 21 13:37:00 st-albans bhumit[1]: automated another manual process ✔
+Nov 21 23:59:59 st-albans bhumit[1]: trainer collection grew again. selling: 0 ✔
 ```
 
 ## 🧭 What I do
@@ -133,5 +133,5 @@ What started as **pokeCRM**, a way to sort out the childhood Pokémon collection
 - 👧 **My daughter** — my greatest joy, my biggest motivation, and the reason I'm never off duty
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a371f7,55:1f6feb,100:0d1117" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00d4ff,50:0b3d91,100:0d1117" width="100%" alt="" />
 </p>
